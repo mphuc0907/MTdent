@@ -1,0 +1,61 @@
+.main {
+    .banner-home {
+        .banner {
+            background-color: #333;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            .mySwiper {
+                .swiper-slide {
+                    height: auto;
+                    padding-top: 4.5rem;
+
+                    img {
+                        display: block;
+                        width: 100%;
+                        height: auto;
+                    }
+                }
+
+                .swiper-button-prev,
+                .swiper-button-next {
+                    width: 44px;
+                    height: 44px;
+                    border: #fff solid 1px;
+                    background-color: transparent;
+                    text-align: center;
+                    padding: 1rem 0;
+                    font-size: 2rem;
+                    color: #fff;
+                    border-radius: 50%;
+                    display: inline-block;
+                    outline: 0;
+                    cursor: pointer;
+                    transition: all .2s cubic-bezier(.42, .04, .26, .98);
+                    
+                }
+                .swiper-button-prev {
+                    left: 90px;
+                    &:after {
+                    font-size: 23px;
+                    position: absolute;
+                    top: 10px;
+                    left: 12px;
+                }
+                }
+                
+                .swiper-button-next{
+                    right: 90px;
+                   &:after {
+                    font-size: 23px;
+                    position: absolute;
+                    top: 10px;
+                    left: 18px;
+                } 
+                } 
+            }
+
+        }
+    }
+}

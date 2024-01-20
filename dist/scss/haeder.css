@@ -1,0 +1,135 @@
+@font-face {
+  font-family: Roboto-Regular;
+  src: url("../font/Roboto/Roboto-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-Medium;
+  src: url("../font/Roboto/Roboto-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-Bold;
+  src: url("../font/Roboto/Roboto-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-BoldItalic;
+  src: url("../font/Roboto/Roboto-BoldItalic.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-Black;
+  src: url("../font/Roboto/Roboto-Black.ttf") format("truetype"); }
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999; }
+  .header.fixed {
+    position: fixed;
+    background-color: #333; }
+    .header.fixed .menu-wrapper {
+      padding-top: 0.4rem;
+      padding-bottom: 0.4rem;
+      transition: all 0.2s cubic-bezier(0.42, 0.04, 0.26, 0.98);
+      background-color: #fff;
+      box-shadow: 0 3px 3px rgba(0, 0, 0, 0.15); }
+    .header.fixed .menu-wrapper .menu > li a {
+      color: #333; }
+    .header.fixed .form-search input[type=search] {
+      background-color: #f2f2f2; }
+  .header .slogan {
+    text-transform: uppercase;
+    margin-left: 1rem;
+    font-weight: 400;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: 1rem; }
+  .header .func-wrapper {
+    padding-top: 0.75rem;
+    background-color: #303845;
+    color: #fff;
+    padding-bottom: 0.5rem;
+    font-size: 1.2rem; }
+    .header .func-wrapper .box-justify {
+      align-items: center; }
+      .header .func-wrapper .box-justify .hide-r {
+        font-size: 12px; }
+      .header .func-wrapper .box-justify > :last-child > * {
+        margin-left: 1rem; }
+      .header .func-wrapper .box-justify li.lang-item.current-lang {
+        display: none; }
+      .header .func-wrapper .box-justify li.lang-item {
+        display: inline-block;
+        width: 25px;
+        height: auto;
+        vertical-align: top;
+        cursor: pointer; }
+    .header .func-wrapper a {
+      color: #f26521;
+      text-decoration: none;
+      text-decoration-line: none;
+      text-decoration-thickness: initial;
+      text-decoration-style: initial;
+      text-decoration-color: initial;
+      font-weight: 700; }
+      .header .func-wrapper a img {
+        height: 52px; }
+  .header .menu-wrapper {
+    padding-top: 15px; }
+    .header .menu-wrapper .menu {
+      display: inline-block;
+      list-style: none;
+      padding: 0;
+      margin: 0; }
+      .header .menu-wrapper .menu > li + li {
+        margin-left: 1.4rem; }
+      .header .menu-wrapper .menu > li {
+        display: inline-block;
+        font-size: 1.6rem; }
+        .header .menu-wrapper .menu > li a {
+          text-decoration: none;
+          display: block;
+          color: #fff;
+          padding: 5px 0;
+          font-size: 16px; }
+          .header .menu-wrapper .menu > li a:hover {
+            color: #f26521; }
+  .header .form-search {
+    position: relative;
+    width: 250px;
+    max-width: 50%;
+    margin-top: 0.5rem; }
+    .header .form-search input[type=search] {
+      border: none;
+      background-color: #fff;
+      color: #333;
+      outline: 0;
+      padding: 0.6rem 38px 0.6rem 1.5rem;
+      height: 28px;
+      border-radius: 14px;
+      width: 100%;
+      display: block; }
+    .header .form-search .button {
+      position: absolute;
+      right: 1px;
+      top: 1px;
+      line-height: 26px;
+      padding: 0;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%; }
+      .header .form-search .button i:before {
+        display: inline-block;
+        text-decoration: inherit;
+        width: 1em;
+        margin-right: 0.2em;
+        text-align: center;
+        font-size: 12px;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1em;
+        margin-left: 0.2em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale; }
+    .header .form-search .button-primary {
+      border-color: #f26521;
+      background-color: #f26521;
+      color: #fff; }
+
+/*# sourceMappingURL=haeder.css.map */

@@ -1,0 +1,43 @@
+.main .banner-home .banner {
+  background-color: #333;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+  .main .banner-home .banner .mySwiper .swiper-slide {
+    height: auto;
+    padding-top: 4.5rem; }
+    .main .banner-home .banner .mySwiper .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: auto; }
+  .main .banner-home .banner .mySwiper .swiper-button-prev,
+  .main .banner-home .banner .mySwiper .swiper-button-next {
+    width: 44px;
+    height: 44px;
+    border: #fff solid 1px;
+    background-color: transparent;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    outline: 0;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.42, 0.04, 0.26, 0.98); }
+  .main .banner-home .banner .mySwiper .swiper-button-prev {
+    left: 90px; }
+    .main .banner-home .banner .mySwiper .swiper-button-prev:after {
+      font-size: 23px;
+      position: absolute;
+      top: 10px;
+      left: 12px; }
+  .main .banner-home .banner .mySwiper .swiper-button-next {
+    right: 90px; }
+    .main .banner-home .banner .mySwiper .swiper-button-next:after {
+      font-size: 23px;
+      position: absolute;
+      top: 10px;
+      left: 18px; }
+
+/*# sourceMappingURL=home.css.map */

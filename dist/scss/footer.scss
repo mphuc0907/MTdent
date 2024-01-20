@@ -1,0 +1,181 @@
+.footer {
+    padding: 0;
+    background-color: #303845;
+    color: #fff;
+
+    .new-footer {
+        .bct img {
+            width: 115px;
+        }
+
+        color: #fff;
+        font-size: 18px;
+        font-family: Roboto-Bold;
+
+        .footer-top-wrapper {
+            background-color: rgba(0, 0, 0, .9);
+            padding: 20px 0;
+
+            .footer-top {
+                color: #fff;
+
+                .display_flex {
+                    display: flex;
+                    align-items: center;
+                }
+
+                .news-letter-form-title {
+                    font-size: 18px;
+                    font-weight: 500;
+                    margin: 0 20px 0;
+                    font-family: Roboto-Bold;
+                    line-height: 1.4;
+                    display: block;
+                    text-transform: uppercase;
+                }
+
+                .news-letter-form {
+                    position: relative;
+
+                    .wpcf7-form-control-wrap {
+                        position: relative;
+
+                    }
+
+                    input:not(.wpcf7-submit) {
+                        width: 364px;
+                        border-radius: 25px;
+                        background-color: rgba(255, 255, 255, .18);
+                        box-sizing: border-box;
+                        padding: 0 20px;
+                        height: 51px;
+                        max-width: 100%;
+                        border-color: transparent;
+                        color: #fff;
+                    }
+
+                    input.wpcf7-submit {
+                        background-color: transparent;
+                        background-image: url(../../dist/image/email.png);
+                        position: absolute;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        right: 25px;
+                        width: 30px;
+                        height: 22px;
+                        font-size: 0;
+                        border: none;
+                        cursor: pointer;
+                    }
+                }
+
+                .footer-social {
+                    float: right;
+
+                    .title {
+                        text-transform: uppercase;
+                        color: #fff;
+                        font-size: 18px;
+                        font-weight: 500;
+                        margin: 0 20px 0;
+                    }
+
+                    ul {
+                        margin: 0;
+                        list-style: none;
+                        padding: 0;
+                        display: flex;
+                        align-items: center;
+
+                        li {
+                            padding: 0;
+                            margin-bottom: 0;
+                            list-style: none;
+
+                            a {
+                                color: #fff;
+                                line-height: 51px;
+
+                                svg {
+                                    max-width: 20px;
+                                    height: auto;
+                                    fill: #fff;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
+
+        .footer-bottom-wrapper {
+            padding: 40px 0;
+
+            .title {
+                margin-top: 18px;
+                font-size: 18px;
+                font-weight: 500;
+                margin-bottom: 25px;
+                font-family: Roboto-Bold;
+            }
+
+            ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+
+                li {
+                    font-family: Roboto-Regular;
+                    padding-left: 35px;
+                    position: relative;
+                    margin-bottom: 20px;
+
+                    img {
+                        position: absolute;
+                        left: 0;
+                        top: 4px;
+                    }
+
+                    b,
+                    strong {
+                        font-weight: bolder;
+                        color: #fff;
+                    }
+
+                    strong a {
+                        font-weight: bolder;
+                        color: #fff;
+                    }
+
+                    a {
+                        text-decoration: none;
+                        color: inherit;
+                    }
+                }
+            }
+        }
+
+        .footer-column-2 {
+            font-size: 15px;
+        }
+
+        .footer-column-3 {
+            padding-left: 30px;
+            ul li {
+                padding-left: 0;
+            }
+        }
+
+        .footer-column-3 ul,
+        .footer-column-2 ul {
+            opacity: .8;
+        }
+
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
