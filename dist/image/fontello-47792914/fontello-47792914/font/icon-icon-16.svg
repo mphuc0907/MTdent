@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2024 by original authors @ fontello.com</metadata>
+<defs>
+<font id="icon-icon-16" horiz-adv-x="1000" >
+<font-face font-family="icon-icon-16" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="odnoklassniki-rect" unicode="&#xf30d;" d="M141 850c-78 0-141-63-141-141v-718c0-78 63-141 141-141h718c78 0 141 63 141 141v718c0 78-63 141-141 141h-718z m381-102c114 0 206-92 206-206 0-113-92-206-206-206-113 0-205 93-205 206 0 114 92 206 205 206z m-2-121c-46-1-83-39-83-85 0-47 38-85 85-85 47 0 86 38 86 85 0 47-39 85-86 85 0 0-1 0-2 0z m-168-298c11 0 22-3 32-9 84-53 193-53 277 0 28 18 65 9 83-19 18-28 9-65-19-83-37-23-77-40-119-49l115-116c23-23 23-61 0-85-24-23-62-23-85 0l-114 113-113-113c-11-12-27-18-42-18-16 0-31 6-43 18-23 24-23 62 0 85l115 116c-42 9-82 26-119 49-28 18-37 55-19 83 11 18 30 28 49 28 1 0 1 0 2 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="deviantart" unicode="&#xf316;" d="M360 557l5-340-206 0c23 98 69 177 203 197l-2 44c-293-38-356-199-360-315l473 1 0 283c143 4 320-2 369-208l-210 2 0 144c-38 11-70 11-106 9l-2-230 469 0c5 230-199 334-520 329l0 84-113 0z" horiz-adv-x="993" />
+</font>
+</defs>
+</svg>

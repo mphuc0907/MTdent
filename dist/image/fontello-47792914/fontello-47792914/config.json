@@ -1,0 +1,22 @@
+{
+  "name": "icon-icon-16",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "d04790a0ec2d11e1aff10800200c9a66",
+      "css": "deviantart",
+      "code": 62230,
+      "src": "brandico"
+    },
+    {
+      "uid": "4a02cc611ae9fb342d6026b2ed6cc44e",
+      "css": "odnoklassniki-rect",
+      "code": 62221,
+      "src": "brandico"
+    }
+  ]
+}
