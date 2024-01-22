@@ -169,6 +169,11 @@ $('.slider-for').slick({
     focusOnSelect: true
   });
 jQuery(document).ready(function () {
+      // Clicking on the accordion header title
+	$(".accordions").on("click", ".accordions_title", function() {
+        // will (slide) toggle the related panel.
+        $(this).toggleClass("active").next().slideToggle();
+        });
     Sticky();
     Openmenu();
   });
