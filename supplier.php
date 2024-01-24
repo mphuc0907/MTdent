@@ -15,7 +15,7 @@ include("header.php")
         <div class="container ">
             <div class="list-supplier">
                 <div class="row">
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -30,7 +30,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -45,7 +45,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -60,7 +60,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -75,7 +75,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -90,7 +90,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -105,7 +105,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">
@@ -120,7 +120,7 @@ include("header.php")
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-2">
+                    <div class="col-xl-3 col-md-4 col-12">
                         <div class="item-supplier">
                             <a class="card-img" href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">
                                 <img src="https://seadent.com.vn/wp-content/uploads/2023/11/Logo-Square-269x162.png" class="no-filter" alt="Logo-Square-269x162" title="">

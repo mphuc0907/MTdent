@@ -13,7 +13,7 @@ include("header.php")
     </header>
     <section class="section-light is-relative">
         <div class="dark-block-area"></div>
-        <div class="grid">
+        <div class="container">
             <div class="row">
                 <div class="section col-md-5 col-12 dark-block">
                     <h2 class="section-title show-map" lat="10.804597" lng="106.687980">Công ty cổ phần SEADENT</h2>

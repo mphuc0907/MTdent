@@ -116,8 +116,8 @@
         background-color: #333;
 
         .menu-wrapper {
-            padding-top: 0.4rem;
-            padding-bottom: 0.4rem;
+            padding-top: 4px;
+            padding-bottom: 4px;
             transition: all .2s cubic-bezier(.42, .04, .26, .98);
             background-color: #fff;
             box-shadow: 0 3px 3px rgba(0, 0, 0, .15);
@@ -142,12 +142,12 @@
 
     .slogan {
         text-transform: uppercase;
-        margin-left: 1rem;
+        margin-left: 10px;
         font-weight: 400;
         font-size: 14px;
         display: inline-block;
         vertical-align: bottom;
-        margin-bottom: 1rem;
+        margin-bottom: 10px;
     }
 
     .func-wrapper {
@@ -162,7 +162,7 @@
             }
 
             &>:last-child>* {
-                margin-left: 1rem;
+                margin-left: 10px;
             }
 
             li.lang-item.current-lang {
@@ -179,11 +179,11 @@
             }
         }
 
-        padding-top: 0.75rem;
+        padding-top: 7.5px;
         background-color: #303845;
         color: #fff;
-        padding-bottom: 0.5rem;
-        font-size: 1.2rem;
+        padding-bottom: 5px;
+        font-size: 12px;
 
         a {
             color: #f26521;
@@ -217,7 +217,7 @@
 
             &>li {
                 display: inline-block;
-                font-size: 1.6rem;
+                font-size: 16px;
 
                 a {
                     text-decoration: none;
@@ -233,14 +233,14 @@
             }
 
             &>li+li {
-                margin-left: 1.4rem;
+                margin-left: 14px;
             }
 
         }
 
         @media only screen and (max-width: 1100px) {
             background-color: #fff;
-            padding-bottom: 2rem;
+            padding-bottom: 20px;
             padding-top: 0;
             padding-bottom: 0;
             overflow: hidden;
@@ -253,14 +253,14 @@
         position: relative;
         width: 250px;
         max-width: 50%;
-        margin-top: 0.5rem;
+        margin-top: 5px;
 
         input[type=search] {
             border: none;
             background-color: #fff;
             color: #333;
             outline: 0;
-            padding: 0.6rem 38px 0.6rem 1.5rem;
+            padding: 6px 38px 6px 15px;
             height: 28px;
             border-radius: 14px;
             width: 100%;
@@ -284,7 +284,7 @@
                 width: 1em;
                 margin-right: 0.2em;
                 text-align: center;
-                font-size: 12px;
+                font-size: 18px;
                 font-variant: normal;
                 text-transform: none;
                 line-height: 1em;
@@ -311,7 +311,7 @@
     width: 34px;
     padding: 9px 5px;
     display: none;
-
+    border-radius: 5px;
     .stroke {
         width: 100%;
         height: 2px;

@@ -13,7 +13,7 @@ include("header.php")
         </div>
     </header>
     <section class="detail-supplier section section-light">
-        <div class="grid">
+        <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <figure class="bordered">
@@ -32,9 +32,9 @@ include("header.php")
                     </div>
                     <hr class="short-stroke">
                     <div class="row list-video">
-                        <div class="col col-3-of-12 col-s-4-of-4"> <img id-youtube="yiFoOUQgy6M" src="http://img.youtube.com/vi/yiFoOUQgy6M/hqdefault.jpg" alt="hqdefault"></div>
-                        <div class="col col-3-of-12 col-s-4-of-4"> <img id-youtube="L-5wer4SEzc" src="http://img.youtube.com/vi/L-5wer4SEzc/hqdefault.jpg" alt="hqdefault"></div>
-                        <div class="col col-3-of-12 col-s-4-of-4"> <img id-youtube="l_j8dT9p3-Y" src="http://img.youtube.com/vi/l_j8dT9p3-Y/hqdefault.jpg" alt="hqdefault"></div>
+                        <div class="col-md-4 col-12 img-video"> <img id-youtube="yiFoOUQgy6M" src="http://img.youtube.com/vi/yiFoOUQgy6M/hqdefault.jpg" alt="hqdefault"></div>
+                        <div class="col-md-4 col-12 img-video"> <img id-youtube="L-5wer4SEzc" src="http://img.youtube.com/vi/L-5wer4SEzc/hqdefault.jpg" alt="hqdefault"></div>
+                        <div class="col-md-4 col-12 img-video"> <img id-youtube="l_j8dT9p3-Y" src="http://img.youtube.com/vi/l_j8dT9p3-Y/hqdefault.jpg" alt="hqdefault"></div>
                     </div>
                     <div>
                         <p>Hệ thống thủy lực sở hữu nhiều ưu điểm như công suất cao, an toàn, bền bỉ, yên tĩnh và hoạt động ổn định. Hệ thống này thường được sử dụng trong sản xuất công nghiệp, máy công nghiệp, thậm chí là máy bay sử dụng hệ thống thủy lực rất nhiều.</p>
@@ -56,15 +56,17 @@ include("header.php")
         </div>
         <div class="section-body container">
             <div class="row">
-                <div class="card col col-md-3 ol-sm-4 col-2">
-                    <a class="card-img" href="https://seadent.com.vn/belmont-ghe-nha-eurus-s6.html">
-                        <img src="//seadent.com.vn/wp-content/uploads/2023/11/S6_ES5_Twin-270x270.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" >
-                    </a>
-                    <div class="card-body content-overflow content-overflow-not-desc home">
-                        <p class="entry-title"><a href="https://seadent.com.vn/belmont-ghe-nha-eurus-s6.html" data-wpel-link="internal" rel="follow">Ghế nha khoa Eurus S6 từ Belmont</a></p>
-                        <p>Nhà sản xuất: <a href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">Takara Belmont</a></p>
-                        <p>Xuất xứ: Nhật Bản</p>
-                        <hr><a class="is-dark url url-s" data-wpel-link="internal" rel="follow">Xem chi tiết</a>
+                <div class=" col-md-3 ol-sm-4 col-12">
+                    <div class="card">
+                        <a class="card-img" href="https://seadent.com.vn/belmont-ghe-nha-eurus-s6.html">
+                            <img src="//seadent.com.vn/wp-content/uploads/2023/11/S6_ES5_Twin-270x270.jpg" class="attachment-thumbnail size-thumbnail wp-post-image">
+                        </a>
+                        <div class="card-body content-overflow content-overflow-not-desc home">
+                            <p class="entry-title"><a href="https://seadent.com.vn/belmont-ghe-nha-eurus-s6.html" data-wpel-link="internal" rel="follow">Ghế nha khoa Eurus S6 từ Belmont</a></p>
+                            <p>Nhà sản xuất: <a href="https://seadent.com.vn/nha-cung-cap/takara-belmont/" data-wpel-link="internal" rel="follow">Takara Belmont</a></p>
+                            <p>Xuất xứ: Nhật Bản</p>
+                            <hr><a class="is-dark url url-s" data-wpel-link="internal" rel="follow">Xem chi tiết</a>
+                        </div>
                     </div>
                 </div>
             </div>

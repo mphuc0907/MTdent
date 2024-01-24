@@ -12,7 +12,7 @@ include("header.php")
         </div>
     </header>
     <section class="section section-light is-relative about about-page crop">
-        <div class="grid">
+        <div class="container">
             <div class="row">
                 <div class="col col-2-of-4 col-m-5-of-8 col-s-4-of-4">
                     <h2 class="section-title stroke-top">Chào mừng đến với công ty cổ phần SEADENT</h2>
@@ -29,7 +29,7 @@ include("header.php")
         <div class="decor-shape overlay s-hide"></div>
     </section>
     <section class="section" style="background-image: url(https://seadent.com.vn/wp-content/uploads/2018/08/background_clip_website.png);" id="about-video-intro">
-        <div class="grid">
+        <div class="container">
             <div class="row wrapper-m">
                 <div class="col col-4-of-12 col-m-4-of-4 col-s-4-of-4 block-num text-center"> <img id-youtube="3UFyZqELkUw" src="https://seadent.com.vn/wp-content/themes/seadent/assets/images/icon-play.png" alt="icon-play" title=""></div>
                 <div class="col col-8-of-12 col-m-4-of-4 col-s-4-of-4 block-num">

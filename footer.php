@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="new-footer">
         <div class="footer-top-wrapper">
-            <div class="grid">
+            <div class="container">
                 <div class="row">
                     <div class="col col-12-of-12 col-m-12-of-12 col-s-12-of-12 ">
                         <div class="widget_text footer-top">
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="footer-bottom-wrapper">
-            <div class="grid">
+            <div class="container">
                 <div class="row">
                     <div class="col col-4-of-12 col-m-4-of-12 col-md-12 col-12 ">
                         <div class="widget_text footer-column-1">
